@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SistemaVendas.Views.InicioPage" Title="Início">
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <!--Image Source="logo.png"/-->
+        <Label FontFamily="Helvetica" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center">Bem Vindo ao Sistema Vendas</Label>
+        <Label HorizontalTextAlignment="Center"></Label>
+        <Label HorizontalTextAlignment="Center">Tela de Visualização de Empresa</Label>
+        <Label HorizontalTextAlignment="Center">Tela de Visualização de Vendas</Label>
+    </StackLayout>
+</ContentPage>
